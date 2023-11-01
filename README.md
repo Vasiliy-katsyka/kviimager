@@ -58,5 +58,23 @@ Here is the list of promts that ai is understands:
 - usa
 - france
 - monkey
-
+- circle
+- sphere
+- square
+- cube
+- piano
+- hole
+- albania
+- heart
+- mouse
+- rat
+- dot
+- pencil
+- pen
+- phinx cat
+- chinese crested
+- pushkin
+- lamp
+- hunger games
+- zombieland
 
