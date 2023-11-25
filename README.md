@@ -109,5 +109,6 @@ Here is the list of promts that ai is understands:
 
 To generate 18+ images in KVIImager, you need to use ""18"" parametre, like promts:
 - blood, 18
+  
 Promt "blood" will give error because there isn't "18"!
   
