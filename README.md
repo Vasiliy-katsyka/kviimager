@@ -77,4 +77,37 @@ Here is the list of promts that ai is understands:
 - lamp
 - hunger games
 - zombieland
+- pig
+- jeep
+- ford
+- universe
+- sawfilm
+- cloudes
+- xxxtentacion
+- juicewrld
+- dua lipa
+- billie eilish
+- pgia2
+- dark
+- weeknd
+- openai
+- man
+- girl
+- love
+- live
+- disutopia
+- jbl
+- speaker
+- screen
+- google
+- number
+- two
+- three
+- art
 
+##18+ Images
+
+To generate 18+ images in KVIImager, you need to use ""18"" parametre, like promts:
+- blood, 18
+Promt "blood" will give error because there isn't "18"!
+  
