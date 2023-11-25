@@ -105,7 +105,7 @@ Here is the list of promts that ai is understands:
 - three
 - art
 
-##18+ Images
+# 18+ Images
 
 To generate 18+ images in KVIImager, you need to use ""18"" parametre, like promts:
 - blood, 18
