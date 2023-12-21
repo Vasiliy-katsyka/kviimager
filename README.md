@@ -9,7 +9,27 @@ Free android app there: https://bit.ly/kviimager
 - Useful
 - New
 
-# Promt
+# API
+To call api in python you can use this:
+```
+import requests
+from PIL import Image
+from io import BytesIO
+
+url = 'https://ee1f-217-71-237-228.ngrok-free.app/generate_image'  # Assuming 'generate_image' is the endpoint
+params = {'prompt': 'YOUR_ACTUAL_PROMPT'}
+response = requests.get(url, params=params)
+
+image = Image.open(BytesIO(response.content))
+image.show()
+```
+Or using curl:
+```
+# Making a GET request to the API endpoint and saving the response as an image file
+curl "https://ee1f-217-71-237-228.ngrok-free.app/generate_image?prompt=YOUR_ACTUAL_PROMPT" --output output_image.jpg
+```
+
+# Prompts
 Here is the list of promts that ai is understands:
 - face
 - landscape
