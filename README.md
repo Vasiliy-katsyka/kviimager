@@ -2,12 +2,11 @@
 All about KVIImager 2.0. Prmots, how is it working, how to get api
 
 # How to use
+Open in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A7Rqce-Pc1HsDIR-Vc6WZ4WD2X3K79Gh#scrollTo=-80l3EFhARko)
+
 Try it for free there: https://huggingface.co/spaces/Kvikontent/kviimager
+
 Free android app there: https://bit.ly/kviimager
-- Free
-- Realistic
-- Useful
-- New
 
 # API
 To call api in python you can use this:
